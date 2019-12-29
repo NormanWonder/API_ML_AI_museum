@@ -52,8 +52,7 @@
 ### 产品功能需求
 |  功能名称 |  实现方式|   可行API |  重要程度 |  
 | :---------- | :-----------:|  :-----------:|  :-----------:|  
-|   智能展品定位|  用户使用小程序上传地标图片或输入地标名称，会自动生成当前位置到该展品或地标的地图导览，用户可以根据导航找到目标位置。 | [计算机影像API](https://azure.microsoft.com/zh-cn/services/cognitive-services/computer-vision/)——[数字孪生API（规划路线） ](https://azure.microsoft.com/zh-cn/services/cognitive-services/translator-text-api/)
-| 重要 |  
+|   智能展品定位|  用户使用小程序上传地标图片或输入地标名称，会自动生成当前位置到该展品或地标的地图导览，用户可以根据导航找到目标位置。 | [计算机影像API](https://azure.microsoft.com/zh-cn/services/cognitive-services/computer-vision/)——[数字孪生API（规划路线） ](https://azure.microsoft.com/zh-cn/services/cognitive-services/translator-text-api/)| 重要 |  
 |  智能展品信息 | 用户通过拍摄展品或路标图片，选择目标语言，小程序会自动生成该语言的展品介绍和路标提示信息。|[文本翻译API ](https://azure.microsoft.com/zh-cn/services/cognitive-services/translator-text-api/)| 次重要 |  
 
 #### 人工智能概率性：
